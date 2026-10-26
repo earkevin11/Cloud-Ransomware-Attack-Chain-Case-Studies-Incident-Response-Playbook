@@ -1,0 +1,1 @@
+# Cloud-Ransomware-Attack-Chain-Case-Studies-Incident-Response-Playbook
